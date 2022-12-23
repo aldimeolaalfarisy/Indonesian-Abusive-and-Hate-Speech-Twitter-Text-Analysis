@@ -1,5 +1,8 @@
 # Indonesian-Abusive-and-Hate-Speech-Twitter-Text-Analysis
 
+![image](https://user-images.githubusercontent.com/102453318/209288004-ba191a2a-ad6c-417a-a1a8-91af1715eccc.png)
+
+
 Hate speech is a form of expression that is done to eliminate hatred and commit acts of violence and against a person or group of people for various reasons. Cases of hate speech are very often found on social media, one of which is on Twitter.
 
 In a report entitled 'Digital Civility Index (DCI)' published by Microsoft in 2020, Indonesia ranks lowest in Southeast Asia for the level of decency or ranks 29th out of 32 countries surveyed. Meanwhile, according to POLRI data, from April 2020 to July 2021 there were 937 reported cases with the highest number namely provocative cases, hateful content and hatred.
